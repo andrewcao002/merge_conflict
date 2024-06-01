@@ -4,3 +4,4 @@ def fact(x):
         return 1
     return x * fact(x - 1)
 print (fact(x))
+print('ver 2')
